@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "purchases-core-common", "purchases-core-common\purchases-core-common.csproj", "{C06C280D-32A9-4D03-8482-46A4DCD34C73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "purchases-core-public", "purchases-core-public\purchases-core-public.csproj", "{B062B188-1396-4249-8B4C-524DADA8F9AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "purchases-core-utils", "purchases-core-utils\purchases-core-utils.csproj", "{B7CD3D75-D0A3-4CF2-BCA9-C0703C95388C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C06C280D-32A9-4D03-8482-46A4DCD34C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C06C280D-32A9-4D03-8482-46A4DCD34C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C06C280D-32A9-4D03-8482-46A4DCD34C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C06C280D-32A9-4D03-8482-46A4DCD34C73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B062B188-1396-4249-8B4C-524DADA8F9AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B062B188-1396-4249-8B4C-524DADA8F9AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B062B188-1396-4249-8B4C-524DADA8F9AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B062B188-1396-4249-8B4C-524DADA8F9AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7CD3D75-D0A3-4CF2-BCA9-C0703C95388C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7CD3D75-D0A3-4CF2-BCA9-C0703C95388C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7CD3D75-D0A3-4CF2-BCA9-C0703C95388C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7CD3D75-D0A3-4CF2-BCA9-C0703C95388C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
